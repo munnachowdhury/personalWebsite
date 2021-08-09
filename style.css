@@ -43,6 +43,7 @@ section{
     color: white;
     font-size: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 .half-width{
     width: 40%;
