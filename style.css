@@ -111,6 +111,7 @@ section{
     display: inline-block;
     margin: 150px 80px;
     background-color: none;
+    position: static;
 }
 
 .last-work2{
